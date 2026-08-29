@@ -40,7 +40,7 @@ Test Steps	Test Data	Expected Results	Actual Results	Status (Pass/Fail)
 ·  Observe the chatbot response.
 	User Question:
 "What GPU is suitable for a gaming PC?"	The chat-bot should receive the question and provide a relevant response related to selecting a GPU for a gaming PC.	The chatbot provides a response to the user's question.
-	Pass
+	Pass.
 
 Figma Design:
   https://www.figma.com/design/FdnrrkZPAMtbo0atc3DqI0/FixMyRig-AI-Chatbot?node-id=0-1&t=TCcWET3MnPB9u05J-1
